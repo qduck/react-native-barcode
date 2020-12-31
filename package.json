@@ -1,31 +1,59 @@
 {
-  "name": "react-native-barcode",
-  "version": "1.0.0",
-  "description": "一个简单的二维码扫描组件",
-  "main": "Barcode.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_args": [
+    [
+      "git+https://github.com/Gou-Bo/react-native-barcode.git",
+      "/Volumes/XioLift/DevIOSApp/xio_mes_app"
+    ]
+  ],
+  "_from": "git+https://github.com/Gou-Bo/react-native-barcode.git",
+  "_id": "react-native-barcode@git+https://github.com/Gou-Bo/react-native-barcode.git#215fb0a2a22989b13a3b5180f9f90a802f0f15d3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-barcode",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/Gou-Bo/react-native-barcode.git"
+    "raw": "git+https://github.com/Gou-Bo/react-native-barcode.git",
+    "rawSpec": "git+https://github.com/Gou-Bo/react-native-barcode.git",
+    "saveSpec": "git+https://github.com/Gou-Bo/react-native-barcode.git",
+    "fetchSpec": "https://github.com/Gou-Bo/react-native-barcode.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Gou-Bo/react-native-barcode.git#215fb0a2a22989b13a3b5180f9f90a802f0f15d3",
+  "_spec": "git+https://github.com/Gou-Bo/react-native-barcode.git",
+  "_where": "/Volumes/XioLift/DevIOSApp/xio_mes_app",
+  "author": {
+    "name": "苟波"
+  },
+  "bugs": {
+    "url": "https://github.com/Gou-Bo/react-native-barcode/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "description": "一个简单的二维码扫描组件",
+  "homepage": "https://github.com/Gou-Bo/react-native-barcode#readme",
   "keywords": [
     "react-native",
     "smart",
     "barcode",
     "scan"
   ],
-  "author": "苟波",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Gou-Bo/react-native-barcode/issues"
-  },
-  "homepage": "https://github.com/Gou-Bo/react-native-barcode#readme",
+  "main": "Barcode.js",
+  "name": "react-native-barcode",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   },
-  "dependencies": {
-    "prop-types": "^15.6.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gou-Bo/react-native-barcode.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }

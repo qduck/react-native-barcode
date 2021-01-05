@@ -10,7 +10,7 @@ The library uses [https://github.com/zxing/zxing][1] to decode the barcodes for 
 ## Installation
 
 ```
-npm install https://github.com/Gou-Bo/react-native-barcode.git --save
+npm install https://github.com/qduck/react-native-barcode.git --save
 ```
 
 ## IOS端集成：

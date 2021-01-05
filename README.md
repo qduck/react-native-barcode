@@ -5,7 +5,7 @@ The library uses [https://github.com/zxing/zxing][1] to decode the barcodes for 
 
 ## Preview
 
-![react-native-barcode-preview-ios][2]
+
 
 ## Installation
 
@@ -23,7 +23,7 @@ npm install https://github.com/qduck/react-native-barcode.git --save
 
 4.将\node_modules\react-native-barcode\ios\raw 文件夹拖到到Xcode项目中（确保文件夹是蓝色的）
 
-![react-native-barcode-install-ios][4]
+
 
 5.在info.plist添加相机权限 Privacy - Camera Usage Description：
 
